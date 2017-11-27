@@ -1,0 +1,100 @@
+
+body{
+	font-family: 'Roboto', sans-serif;
+}
+li {
+	text-decoration: none;
+	display: inline-block;	
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+a:hover{
+	color:#8C8F93;
+}
+.menu{
+	background-color: #343A40;
+	padding: 3%;
+}
+.header{
+	width: 100%;
+}
+.imgCentral{
+	width: 100%;
+	
+}
+.img-1{
+	width: 50%;
+}
+.aboutToRock{
+margin-top: 3%;
+}
+.rock{
+	width: 50%;
+	height: 50%;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+}
+.text1{
+padding: 4%;
+
+}
+.title1{
+	padding: 2%;
+	font-size: 300%;
+}
+.parrafo1{
+	padding:2%;
+	text-align: justify;
+}
+.about{
+	margin-left: 8%;
+}
+.img2{
+	width: 50%;
+
+}
+.Salute{
+	margin-top: 3%;
+}
+.saluteYou{
+	margin-left: 8%;
+}
+.text2{
+padding: 2%;
+margin-left: 6%;
+
+}
+.title2{
+padding: 2%;
+font-size: 300%;
+}
+.parrafo2{
+	padding:2%;
+	text-align: justify;
+}
+.beRock{
+margin-top: 3%;
+}
+.be{
+margin-left: 8%;
+}
+.text3{
+padding: 4%;
+}
+.title3{
+padding: 2%;
+font-size: 300%;
+}
+.parrafo3{
+padding:2%;
+text-align: justify;
+}
+.pie{
+	background-color: #343A40;
+	color: white;
+	padding: 2%;
+	text-align: center; 
+}

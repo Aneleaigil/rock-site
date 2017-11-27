@@ -1,0 +1,51 @@
+@media(min-width: 535px) and (max-width: 824px){ /*// se define minimo de ancho de pantalla y maximo de ancho de pantalla */
+[class*='col-']{ /*yo quiero que tome todas las col y que se le aplique el estilo del 100% del ancho del contenido que estan en ellas*/
+		width: 100%;
+		
+   }
+   body{
+   	background-color:black;
+   	color: white;
+   }
+ 
+  .titulo, .nota{
+  	margin-left: 5%;
+  }
+  .about{
+  	margin-left: 5%;
+  }
+  .nota-final{
+  	margin-left: 5%;
+  }
+}
+@media(min-width: 535px) and (max-width: 824px){
+[class*='col-2'] { 
+		width: 25%;
+		
+  }
+}
+
+@media (min-width: 220px) and (max-width: 534px) {
+	[class*='col-']{
+		width: 100%;
+	}
+	body{
+		background-color: darkgrey;
+		color: white;
+	}
+  .titulo, .nota{
+  	margin-left: 5%;
+  }
+  .about{
+  	margin-left: 5%;
+  }
+  .nota-final{
+  	margin-left: 5%;
+  }
+}
+@media(min-width: 220px) and (max-width: 534px){
+[class*='col-2'] { 
+		width: 25%;
+		
+  }
+	}
