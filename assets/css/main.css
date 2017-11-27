@@ -19,16 +19,28 @@ a:hover{
 }
 .header{
 	width: 100%;
+	position: absolute;
+	
 }
 .imgCentral{
 	width: 100%;
 	
 }
+.titleImg{
+	position: relative;
+	color:white;
+	text-align: center;
+	font-size: 500%;
+	margin-top: 20%;
+	opacity: 0.9;
+
+}
 .img-1{
 	width: 50%;
 }
 .aboutToRock{
-margin-top: 3%;
+margin-top: 30%;
+
 }
 .rock{
 	width: 50%;
